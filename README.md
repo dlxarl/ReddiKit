@@ -4,7 +4,7 @@ ReddiKit is a macOS SwiftUI application tthat lets users easily search for and d
 
 ## Release
 
-[Download last version 1.0.0](https://zero45.pro/reddikit/ReddiKit_1.0.0.dmg)
+[Download the latest version 1.0.0](https://zero45.pro/reddikit/ReddiKit_1.0.0.dmg)
 
 ## Features
 - Fetches the latest drum kits from r/Drumkits.
